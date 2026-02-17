@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simone' Samuelson
 
-💻 Junior Data Engineer | DevOps Engineer
+💻 Junior DevOps Engineer | Data Engineer
 
 📍 South Africa, Cape Town
 
@@ -13,29 +13,31 @@
 - 🌱 Expanding skills in Data Engineering & Cloud Technologies
 - 🔥 Solving real-world problems with technology
 
+**☁️ Cloud Platforms**
+- 🟢 Google Cloud Platform
+- 🔵 Microsoft Azure
+
 # 🛠️ Skills and Technologies
 **💻 Programming and Development**
 - 🐍 Language: Python   
 - 🗄️ Querying: SQL   
 - 🔧 Version Control: Git 
 
-**☁️ Cloud Platforms**
-- 🟢 Google Cloud Platform
-- 🔵 Microsoft Azure
+**⚙️ DevOps and Tools**
+- 🌍 Terraform
+- 🐳 Docker
+- 🐙 GitHub
+- 📝 VS Code
+- 🐧 Linux
+- 💻 Bash
+- 🪟 PowerShell
 
 **🔄 Data Engineering**
   - 🗄️ Databases
   - 📈 Business Intelligence
   - ⚡ ETL/ELT Pipelines
   - ⏱️ Batch & Real-Time Stream Processing
-
-**⚙️ DevOps and Tools**
-- 🌍 Terraform
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🐙 GitHub
-- 📝 VS Code
-
+    
 **📊 Big Data & Processing Frameworks**
 - 🔥 Apache Spark
 - 🐍 PySpark
