@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Simone' Samuelson
 
-💻 Junior DevOps Engineer | Data Engineer
+💻 Junior DevOps Engineer
 
 📍 South Africa, Cape Town
 
@@ -10,7 +10,7 @@
 
 - 🎓 7 active certifications in Microsoft Azure & Google Cloud
 - 🛠️ 3+ years in Platform Engineering
-- 🌱 Expanding skills in Data Engineering & Cloud Technologies
+- 🌱 Expanding skills in DevOps Engineering & Cloud Technologies
 - 🔥 Solving real-world problems with technology
 
 # 🛠️ Skills and Technologies
@@ -36,8 +36,7 @@
   - 🗄️ Databases
   - 📈 Business Intelligence
   - ⚡ ETL/ELT Pipelines
-  - ⏱️ Batch & Real-Time Stream Processing
-    
+  
 **📊 Big Data & Processing Frameworks**
 - 🔥 Apache Spark
 - 🐍 PySpark
